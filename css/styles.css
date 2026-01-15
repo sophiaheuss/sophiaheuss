@@ -78,9 +78,10 @@ header h1 {
 
 p a {
     text-decoration: none; /* removes underline */
-    color: hsl(342, 43%, 51%);
+    color: #993c60;
 }
 
 p a:hover {
     text-decoration: underline; /* underline on hover */
+
 }
